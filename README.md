@@ -33,4 +33,4 @@ If you have any improvements or suggestions for this script, feel free to contri
 
 ---
 
-**Disclaimer:** This script is designed to enhance your Git workflow and is not intended to cause harm to any files or directories.
+**Disclaimer:** This script is designed to enhance your Git workflow and is not intended to cause harm to any files or directories. Also, this README was written by chatGPT, because I couldn't be bothered to do it myself.
